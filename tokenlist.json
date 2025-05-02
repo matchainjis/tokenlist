@@ -78,15 +78,17 @@
     "volume_24h": null
   },
   {
-    "address": "0xB6dc6C8b71e88642cEAD3be1025565A9eE74d1C6",
+    "address": "0x50fBAA0ACD30055B2376289b93AA8558630fDa72",
+    "address_hash": "0x50fBAA0ACD30055B2376289b93AA8558630fDa72",
     "circulating_market_cap": null,
-    "decimals": "6",
+    "decimals": "18",
     "exchange_rate": null,
-    "holders": "3864",
+    "holders": "198",
+    "holders_count": "198",
     "icon_url": null,
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "total_supply": "86757484090",
+    "name": "OverMatch",
+    "symbol": "OVM",
+    "total_supply": "300000000000000000000000000",
     "type": "ERC-20",
     "volume_24h": null
   },
