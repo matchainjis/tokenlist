@@ -1,6 +1,7 @@
 [
   {
     "address": "0xB2174052dd2F3FCAB9Ba622F2e04FBEA13fc0dFC",
+    "logoUrl": "https://cdn.matchid.ai/mid/dapps/LOL_LOGO.svg",
     "circulating_market_cap": null,
     "decimals": "18",
     "exchange_rate": null,
@@ -14,6 +15,7 @@
   },
   {
     "address": "0xb49ed45d594aB849C46e01eba11C794d955A2EaD",
+    "logoUrl": "https://cdn.matchid.ai/mid/dapps/CDARI.svg",
     "circulating_market_cap": null,
     "decimals": "18",
     "exchange_rate": null,
@@ -27,6 +29,7 @@
   },
   {
     "address": "0xF6D90c6BC676eF3bF40697BC45a4D869BAa20667",
+    "logoUrl": "https://cdn.matchid.ai/mid/dapps/MAD.svg",
     "circulating_market_cap": null,
     "decimals": "18",
     "exchange_rate": null,
@@ -40,6 +43,7 @@
   },
   {
     "address": "0x2CaD7C4F05B3ec45D3d8dFb284fd73ea7b89792d",
+    "logoUrl": "https://cdn.matchid.ai/mid/dapps/FOMO.svg",
     "circulating_market_cap": null,
     "decimals": "18",
     "exchange_rate": null,
@@ -53,6 +57,7 @@
   },
   {
     "address": "0xA88B1C28fE2994fEe38758b963E1507c817CbC71",
+    "logoUrl": "https://cdn.matchid.ai/mid/dapps/MPSGPOINTS.svg",
     "circulating_market_cap": null,
     "decimals": "18",
     "exchange_rate": null,
@@ -66,6 +71,7 @@
   },
   {
     "address": "0x33930C6b365EdB83e60ba80CB1c8445511862762",
+    "logoUrl": "https://cdn.matchid.ai/mid/dapps/EGG.svg",
     "circulating_market_cap": null,
     "decimals": "18",
     "exchange_rate": null,
@@ -79,6 +85,7 @@
   },
   {
     "address": "0x50fBAA0ACD30055B2376289b93AA8558630fDa72",
+    "logoUrl": "https://cdn.matchid.ai/mid/dapps/OVM.svg",
     "circulating_market_cap": null,
     "decimals": "18",
     "exchange_rate": null,
@@ -92,6 +99,7 @@
   },
   {
     "address": "0x1F294E3B71189dAD7dce235d6FAFBC845C7CD177",
+    "logoUrl": "https://cdn.matchid.ai/mid/dapps/TOX.svg",
     "circulating_market_cap": null,
     "decimals": "18",
     "exchange_rate": null,
@@ -105,6 +113,7 @@
   },
   {
     "address": "0x0f04c0E43dc436A375893F3F5e2D48dB7BC2Da67",
+    "logoUrl": "https://cdn.matchid.ai/mid/dapps/MATBAN.svg",
     "circulating_market_cap": null,
     "decimals": "18",
     "exchange_rate": null,
@@ -118,6 +127,7 @@
   },
   {
     "address": "0xA625f0Efc6f9cba33233A9c9B2AE36AE716a370e",
+    "logoUrl": "https://cdn.matchid.ai/mid/dapps/INCA.svg",
     "circulating_market_cap": null,
     "decimals": "18",
     "exchange_rate": null,
