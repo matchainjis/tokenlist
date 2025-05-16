@@ -1,142 +1,97 @@
-[
-  {
-    "address": "0xB2174052dd2F3FCAB9Ba622F2e04FBEA13fc0dFC",
-    "logoUrl": "https://cdn.matchid.ai/mid/dapps/LOL_LOGO.svg",
-    "circulating_market_cap": null,
-    "decimals": "18",
-    "exchange_rate": null,
-    "holders": "14545368",
-    "icon_url": null,
-    "name": "LaughingOutLoud",
-    "symbol": "LOL",
-    "total_supply": "1000000000000000000000000000000000",
-    "type": "ERC-20",
-    "volume_24h": null
+{
+  "name": "Matchain Token List",
+  "logoURI": "https://cdn.matchain.io/mid/Matchain.svg",
+  "timestamp": "2025-05-16T01:55:00.000Z",
+  "keywords": [
+    "matchain",
+    "did",
+    "ai"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
   },
-  {
-    "address": "0xb49ed45d594aB849C46e01eba11C794d955A2EaD",
-    "logoUrl": "https://cdn.matchid.ai/mid/dapps/CDARI.svg",
-    "circulating_market_cap": null,
-    "decimals": "18",
-    "exchange_rate": null,
-    "holders": "803544",
-    "icon_url": null,
-    "name": "Business Alliance Coin",
-    "symbol": "BAC",
-    "total_supply": "31225594015718000000000000",
-    "type": "ERC-20",
-    "volume_24h": null
-  },
-  {
-    "address": "0xF6D90c6BC676eF3bF40697BC45a4D869BAa20667",
-    "logoUrl": "https://cdn.matchid.ai/mid/dapps/MAD.svg",
-    "circulating_market_cap": null,
-    "decimals": "18",
-    "exchange_rate": null,
-    "holders": "424371",
-    "icon_url": null,
-    "name": "Miner AirDrop",
-    "symbol": "MAD",
-    "total_supply": "1000000000000000000000000000000",
-    "type": "ERC-20",
-    "volume_24h": null
-  },
-  {
-    "address": "0x2CaD7C4F05B3ec45D3d8dFb284fd73ea7b89792d",
-    "logoUrl": "https://cdn.matchid.ai/mid/dapps/FOMO.svg",
-    "circulating_market_cap": null,
-    "decimals": "18",
-    "exchange_rate": null,
-    "holders": "325616",
-    "icon_url": null,
-    "name": "DONOTFOMO",
-    "symbol": "FOMO",
-    "total_supply": "13213857800000000000000000000",
-    "type": "ERC-20",
-    "volume_24h": null
-  },
-  {
-    "address": "0xA88B1C28fE2994fEe38758b963E1507c817CbC71",
-    "logoUrl": "https://cdn.matchid.ai/mid/dapps/MPSGPOINTS.svg",
-    "circulating_market_cap": null,
-    "decimals": "18",
-    "exchange_rate": null,
-    "holders": "77722",
-    "icon_url": null,
-    "name": "Matchain x PSG Points",
-    "symbol": "POINTS",
-    "total_supply": "10537400000000000000000000",
-    "type": "ERC-20",
-    "volume_24h": null
-  },
-  {
-    "address": "0x33930C6b365EdB83e60ba80CB1c8445511862762",
-    "logoUrl": "https://cdn.matchid.ai/mid/dapps/EGG.svg",
-    "circulating_market_cap": null,
-    "decimals": "18",
-    "exchange_rate": null,
-    "holders": "5096",
-    "icon_url": null,
-    "name": "Egg",
-    "symbol": "EGG",
-    "total_supply": "2953096663000000000000000000",
-    "type": "ERC-20",
-    "volume_24h": null
-  },
-  {
-    "address": "0x50fBAA0ACD30055B2376289b93AA8558630fDa72",
-    "logoUrl": "https://cdn.matchid.ai/mid/dapps/OVM.svg",
-    "circulating_market_cap": null,
-    "decimals": "18",
-    "exchange_rate": null,
-    "holders": "198",
-    "icon_url": null,
-    "name": "OverMatch",
-    "symbol": "OVM",
-    "total_supply": "300000000000000000000000000",
-    "type": "ERC-20",
-    "volume_24h": null
-  },
-  {
-    "address": "0x1F294E3B71189dAD7dce235d6FAFBC845C7CD177",
-    "logoUrl": "https://cdn.matchid.ai/mid/dapps/TOX.svg",
-    "circulating_market_cap": null,
-    "decimals": "18",
-    "exchange_rate": null,
-    "holders": "2383",
-    "icon_url": null,
-    "name": "TOX TOKEN",
-    "symbol": "TOX",
-    "total_supply": "10000000000000000000000000000",
-    "type": "ERC-20",
-    "volume_24h": null
-  },
-  {
-    "address": "0x0f04c0E43dc436A375893F3F5e2D48dB7BC2Da67",
-    "logoUrl": "https://cdn.matchid.ai/mid/dapps/MATBAN.svg",
-    "circulating_market_cap": null,
-    "decimals": "18",
-    "exchange_rate": null,
-    "holders": "1996",
-    "icon_url": null,
-    "name": "Matchain Banana",
-    "symbol": "BANANA",
-    "total_supply": "1000000000000000000000000000",
-    "type": "ERC-20",
-    "volume_24h": null
-  },
-  {
-    "address": "0xA625f0Efc6f9cba33233A9c9B2AE36AE716a370e",
-    "logoUrl": "https://cdn.matchid.ai/mid/dapps/INCA.svg",
-    "circulating_market_cap": null,
-    "decimals": "18",
-    "exchange_rate": null,
-    "holders": "487",
-    "icon_url": null,
-    "name": "INCASWAP",
-    "symbol": "INCA",
-    "total_supply": "1000000000000000000000000",
-    "type": "ERC-20",
-    "volume_24h": null
-  }
-]
+  "tokens": [
+    {
+      "name": "LaughingOutLoud",
+      "symbol": "LOL",
+      "decimals": "18",
+      "chainId": 698,
+      "address": "0xB2174052dd2F3FCAB9Ba622F2e04FBEA13fc0dFC",
+      "logoUrl": "https://cdn.matchid.ai/mid/dapps/LOL_LOGO.svg"
+    },
+    {
+      "name": "Business Alliance Coin",
+      "symbol": "BAC",
+      "decimals": "18",
+      "chainId": 698,
+      "address": "0xb49ed45d594aB849C46e01eba11C794d955A2EaD",
+      "logoUrl": "https://cdn.matchid.ai/mid/dapps/CDARI.svg"
+    },
+    {
+      "name": "Miner AirDrop",
+      "symbol": "MAD",
+      "decimals": "18",
+      "chainId": 698,
+      "address": "0xF6D90c6BC676eF3bF40697BC45a4D869BAa20667",
+      "logoUrl": "https://cdn.matchid.ai/mid/dapps/MAD.svg"
+    },
+    {
+      "name": "DONOTFOMO",
+      "symbol": "FOMO",
+      "decimals": "18",
+      "chainId": 698,
+      "address": "0x2CaD7C4F05B3ec45D3d8dFb284fd73ea7b89792d",
+      "logoUrl": "https://cdn.matchid.ai/mid/dapps/FOMO.svg"
+    },
+    {
+      "name": "Matchain x PSG Points",
+      "symbol": "POINTS",
+      "decimals": "18",
+      "chainId": 698,
+      "address": "0xA88B1C28fE2994fEe38758b963E1507c817CbC71",
+      "logoUrl": "https://cdn.matchid.ai/mid/dapps/MPSGPOINTS.svg"
+    },
+    {
+      "name": "Egg",
+      "symbol": "EGG",
+      "decimals": "18",
+      "chainId": 698,
+      "address": "0x33930C6b365EdB83e60ba80CB1c8445511862762",
+      "logoUrl": "https://cdn.matchid.ai/mid/dapps/EGG.svg"
+    },
+    {
+      "name": "OverMatch",
+      "symbol": "OVM",
+      "decimals": "18",
+      "chainId": 698,
+      "address": "0x50fBAA0ACD30055B2376289b93AA8558630fDa72",
+      "logoUrl": "https://cdn.matchid.ai/mid/dapps/OVM.svg"
+    },
+    {
+      "name": "TOX TOKEN",
+      "symbol": "TOX",
+      "decimals": "18",
+      "chainId": 698,
+      "address": "0x1F294E3B71189dAD7dce235d6FAFBC845C7CD177",
+      "logoUrl": "https://cdn.matchid.ai/mid/dapps/TOX.svg"
+    },
+    {
+      "name": "Matchain Banana",
+      "symbol": "BANANA",
+      "decimals": "18",
+      "chainId": 698,
+      "address": "0x0f04c0E43dc436A375893F3F5e2D48dB7BC2Da67",
+      "logoUrl": "https://cdn.matchid.ai/mid/dapps/MATBAN.svg"
+    },
+    {
+      "name": "INCASWAP",
+      "symbol": "INCA",
+      "decimals": "18",
+      "chainId": 698,
+      "address": "0xA625f0Efc6f9cba33233A9c9B2AE36AE716a370e",
+      "logoUrl": "https://cdn.matchid.ai/mid/dapps/INCA.svg"
+    }
+  ]
+}
