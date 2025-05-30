@@ -30,11 +30,11 @@
       "logoUrl": "https://cdn.matchid.ai/mid/dapps/CDARI.svg"
     },
     {
-      "name": "Miner AirDrop",
-      "symbol": "MAD",
+      "name": "Miner Drop",
+      "symbol": "MINER",
       "decimals": "18",
       "chainId": 698,
-      "address": "0xF6D90c6BC676eF3bF40697BC45a4D869BAa20667",
+      "address": "0xda3F0706d4ba0C7E51B6BD95D630d1aA4cE4062F",
       "logoUrl": "https://cdn.matchid.ai/mid/dapps/MAD.svg"
     },
     {
