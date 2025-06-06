@@ -54,12 +54,12 @@
       "logoUrl": "https://cdn.matchid.ai/mid/dapps/MPSGPOINTS.svg"
     },
     {
-      "name": "Egg",
-      "symbol": "EGG",
+      "name": "FireGhost",
+      "symbol": "GHOST",
       "decimals": "18",
       "chainId": 698,
-      "address": "0x33930C6b365EdB83e60ba80CB1c8445511862762",
-      "logoUrl": "https://cdn.matchid.ai/mid/dapps/EGG.svg"
+      "address": "0x213732781191B4B5956D9B2e854B67B03D3345E5",
+      "logoUrl": "https://cdn.matchid.ai/mid/dapps/GHOST.svg"
     },
     {
       "name": "OverMatch",
