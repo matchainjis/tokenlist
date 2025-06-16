@@ -70,20 +70,20 @@
       "logoUrl": "https://cdn.matchid.ai/mid/dapps/OVM.svg"
     },
     {
-      "name": "TOX TOKEN",
-      "symbol": "TOX",
+      "name": "MAT Token",
+      "symbol": "MAT",
       "decimals": "18",
       "chainId": 698,
-      "address": "0x1F294E3B71189dAD7dce235d6FAFBC845C7CD177",
-      "logoUrl": "https://cdn.matchid.ai/mid/dapps/TOX.svg"
+      "address": "0x44a83a012B926853DFc1BBE2ec5BEf37126067e8",
+      "logoUrl": "https://cdn.matchain.io/tgapp/MAT-500x500.svg"
     },
     {
-      "name": "Matchain Banana",
-      "symbol": "BANANA",
+      "name": "Liquid Staked MAT",
+      "symbol": "LSMAT",
       "decimals": "18",
       "chainId": 698,
-      "address": "0x0f04c0E43dc436A375893F3F5e2D48dB7BC2Da67",
-      "logoUrl": "https://cdn.matchid.ai/mid/dapps/MATBAN.svg"
+      "address": "0xa1843e71d1390d4A31469A53EeEfBB2f9AAe34ed",
+      "logoUrl": "https://cdn.matchain.io/tgapp/lsMAT-500x500.svg"
     },
     {
       "name": "INCASWAP",
