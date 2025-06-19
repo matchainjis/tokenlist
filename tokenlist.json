@@ -78,8 +78,8 @@
       "logoUrl": "https://cdn.matchain.io/tgapp/MAT-500x500.svg"
     },
     {
-      "name": "Liquid Staked MAT",
-      "symbol": "LSMAT",
+      "name": "Staked MAT",
+      "symbol": "stMAT",
       "decimals": "18",
       "chainId": 698,
       "address": "0xa1843e71d1390d4A31469A53EeEfBB2f9AAe34ed",
